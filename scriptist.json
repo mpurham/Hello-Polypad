@@ -1,0 +1,26 @@
+{
+	"name": "Hello Polypad",
+	"description": "Example script created for polypad",
+	"version": "1.0.0",
+	"tags": [
+		"scripts",
+		"polypad",
+		"hello-world"
+	],
+	"homepage": "https://polypad.io",
+	"license": "GPL",
+    "type": "script",
+	"authors": [
+		{
+			"name": "Marcell Purham",
+			"email": "m@marcell.me",
+			"homepage": "marcell.me"
+		}
+	],
+	"repositories": [
+		{
+			"type": "vcs",
+			"url": "https://github.com/mpurham/hello-polypad"
+		}
+	]
+}
